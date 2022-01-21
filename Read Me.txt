@@ -3,7 +3,6 @@ e.g intellij...
 
 step 2:
 create local server...
-using xampp or wampp
 go to http://localhost:80/phpmyadmin
 create db named store then go to store....
 import the file given in directory
@@ -18,3 +17,13 @@ email : user1@gmail.com pass: user123
 for seller :
 email : john@gmail.com pass : john123
 
+
+https://youtu.be/Qx6E0g6TAOY
+
+
+online store by
+
+David Alishayev
+Segev Bavli
+Noa Vaturi
+Ran Yaakov
